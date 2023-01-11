@@ -17,22 +17,22 @@ Answer: `pwd`
    your stuff).  Hint: `cd`   
    Answer: `cd`
    
-4. Print out the working directory--are you in the correct place?
+4. Print out the working directory--are you in the correct place?  
 Answer: `pwd`
 
 5. List the files there.  Do you see the same files and in the file
-   explorer?  Hint: `ls`
+   explorer?  Hint: `ls`  
 Answer: `ls`
 
 6. Navigate back to the home folder.  Use the dedicated shortcut for
-   home folder.  Hint `~`.
+   home folder.  Hint `~`  
 Answer: `cd ~`
 
-7. Commit and push your changes.
+7. Commit and push your changes.  
 Answer: `git commit -am "cmd exercise version 3"`
         `git push`
 
-8. Check the file on github--do you see your edits there?
+8. Check the file on github--do you see your edits there?  
 Answer: yes!
 
 Congrats!  You are done!
