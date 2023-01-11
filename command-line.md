@@ -15,17 +15,24 @@ Answer: pwd
 
 3. Navigate to your "Documents" directory (or wherever else you keep
    your stuff).  Hint: `cd`
+Answer: cd
    
 4. Print out the working directory--are you in the correct place?
+Answer: pwd
 
 5. List the files there.  Do you see the same files and in the file
    explorer?  Hint: `ls`
+Answer: ls
 
 6. Navigate back to the home folder.  Use the dedicated shortcut for
    home folder.  Hint `~`.
+Answer: cd ~
 
 7. Commit and push your changes.
+Answer: git commit -am "cmd exercise done"
+        git push
 
 8. Check the file on github--do you see your edits there?
+Answer: yes!
 
 Congrats!  You are done!
