@@ -3,21 +3,27 @@
 This exercise asks you to add a folder to your repo, and thereafter
 image to that folder.  And finally commit everything to github!
 
-1. make a new folder (e.g. _images_) to this repo.  Hint: `mkdir`
+1. make a new folder (e.g. _images_) to this repo.  Hint: `mkdir`  
+Answer: `mkdir _images_`
 
-2. ensure that the folder is there.  Hint: `ls`
+2. ensure that the folder is there.  Hint: `ls`  
+Answer: `ls`
 
 3. download an image you like and save it into the image dir you made
    above.
    
-4. on command line navigate to the image folder.  Hint: `cd`
+4. on command line navigate to the image folder.  Hint: `cd`  
+Answer: `cd _images_`
 
-5. ensure that the image is there.  Hint: `ls`
+5. ensure that the image is there.  Hint: `ls`  
+Answer: `ls`
 
-6. add the image to your git repo.  Hint: `git add image.jpg`
+6. add the image to your git repo.  Hint: `git add image.jpg`  
+Answer: `git add AI.png`
 
 7. commit and push the changes.  Hint: `git commit -am ".. your
-   message here.. ".
+   message here.. ".  
+Answer: `git commit -am "added image"`
    
 8. go and check on github that the image is there.
 
