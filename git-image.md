@@ -22,7 +22,7 @@ Answer: `ls`
 Answer: `git add AI.png`
 
 7. commit and push the changes.  Hint: `git commit -am ".. your
-   message here.. ".  
+   message here.. ".`    
 Answer: `git commit -am "added image"`
    
 8. go and check on github that the image is there.
